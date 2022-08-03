@@ -1,16 +1,18 @@
-# budget_tracker
+# a simple budget tracker
 
-A new Flutter project.
+#### Includes:
+- Dark theme
+- Material App 3
+- Animation
+- Dialogs
+- Local Storage
 
-## Getting Started
+<hr>
 
-This project is a starting point for a Flutter application.
+#### Preview
+![s1](https://user-images.githubusercontent.com/92772661/182641020-fb27ae57-8386-4d72-8b6e-49dcf0d94368.png)
+![s4](https://user-images.githubusercontent.com/92772661/182641115-112d9727-f6d0-40a2-93b1-4e0920b6511a.png)
+![s3](https://user-images.githubusercontent.com/92772661/182641148-618fed9e-24fd-49b2-bdd0-e323aa665bfc.png)
+![s3](https://user-images.githubusercontent.com/92772661/182641166-a16c55b7-033d-4b41-924a-f915bfc3eb1e.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
